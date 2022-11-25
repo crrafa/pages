@@ -1,5 +1,5 @@
 ---
-title: Este es mi page
+title: GitHubPage
 ---
 
 # Inicio
