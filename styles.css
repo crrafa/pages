@@ -1,0 +1,24 @@
+.barra {
+  background-color: #F1502F;
+}
+
+/* .btn-git{
+ 
+} */
+
+.btn-git {
+  background-color: rgb(241, 80, 47);
+  color:rgb(255, 255, 255);
+  border-color: rgba(241, 79, 47, 0.706);
+}
+
+.btn-git:hover {
+  background-color: rgb(228, 76, 46);
+  color:rgb(255, 255, 255);
+  border-color: rgba(241, 79, 47, 0.706);
+}
+
+.btn-git:focus,
+.btn-git.focus {
+  box-shadow: 0 0 0 .2rem rgba(241, 80, 47, 0.5)
+}
